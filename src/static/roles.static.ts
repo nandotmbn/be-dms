@@ -1,0 +1,3 @@
+const ROLES = ["SUPERINTENDENT", "SUPERVISOR", "STAFF"];
+
+export { ROLES };

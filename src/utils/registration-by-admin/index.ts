@@ -1,0 +1,1 @@
+export { registrationPriviledge } from "./admin";
